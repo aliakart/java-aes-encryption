@@ -26,9 +26,11 @@ Since this is a Maven project, you can run it directly from the terminal. Ensure
    git clone [https://github.com/YOUR_USERNAME/java-aes-encryption.git](https://github.com/YOUR_USERNAME/java-aes-encryption.git)
    
 2. Go to the project directory:
+   ```bash
    cd java-aes-encryption
    
-3. Run the application using the JavaFX Maven plugin:
+4. Run the application using the JavaFX Maven plugin:
+   ```bash
    mvn clean javafx:run
 
 ## License
