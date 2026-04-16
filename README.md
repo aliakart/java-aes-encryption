@@ -23,7 +23,7 @@ Since this is a Maven project, you can run it directly from the terminal. Ensure
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/java-aes-encryption.git](https://github.com/YOUR_USERNAME/java-aes-encryption.git)
+   git clone [https://github.com/aliakart/java-aes-encryption.git](https://github.com/aliakart/java-aes-encryption.git)
    
 2. Go to the project directory:
    ```bash
